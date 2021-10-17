@@ -1,2 +1,7 @@
 aaaa
+<<<<<<< HEAD
 hong2
+=======
+
+hong1
+>>>>>>> 8dca65e3b8a48b21f1d41d9600d663cbb89d618e
